@@ -1,6 +1,6 @@
 # minatheme
 
-A minimalistic theme for obsidian publish. The theme is a work in progress. Features are covered in the [features](#features) section of this README. Notes in the [design](#design) section are potentially worth skimming. Note that these lists aren't exhaustive, they just cover the stuff which stood out to me while skimming the code. You can find an example of the theme on [this](https://rokosphoenix.com) site.
+A minimalistic theme for obsidian publish. You can find an example of the theme on [this](https://rokosphoenix.com) site. The theme is a work in progress. Features are covered in the [features](#features) section of this README. Notes in the [design](#design) section are potentially worth skimming. Note that these lists aren't exhaustive, they just cover the stuff which stood out to me while skimming the code.
 
 ## Setup
 
