@@ -24,6 +24,14 @@ A minimalistic theme for obsidian publish. Features are covered in the [features
 
 ## Design
 
+### Fonts Used
+
+- [Oxygen Mono](https://fonts.google.com/specimen/Oxygen+Mono?query=oxygen+mono) is used for the sidebar text.
+- [Inter](https://fonts.google.com/specimen/Inter?query=inter) is used for the page text.
+
+
+
+
 ## Features
 
 ### Keyboard Shortcuts
