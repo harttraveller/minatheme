@@ -1,6 +1,6 @@
 # minatheme
 
-A minimalistic theme for obsidian publish. You can find an example of the theme on [this](https://rokosphoenix.com) site.
+A minimalistic theme for obsidian publish. Features are covered in the [features](#features) section of this README. Notes in the [design](#design) section are potentially worth skimming. You can find an example of the theme on [this](https://rokosphoenix.com) site.
 
 ## Setup
 
@@ -22,13 +22,23 @@ A minimalistic theme for obsidian publish. You can find an example of the theme 
 - show table of contents: on
 - show backlinks: on
 
+## Design
+
 ## Features
 
-### Functional
+### Keyboard Shortcuts
+
+If you would like a keyboard shortcut added, or think a shortcut key should be changed, please submit a GitHub issue.
+
+- [x] pressing `/` toggles quick search
+- [x] pressing `:` returns to the home page
+- [x] pressing `[` toggles the local graph
+- [x] pressing `]` toggle the global graph
 
 ### Interface
 
 - [x] Add copy code button to code blocks
+  - [ ] adjust code block padding so there isn't overlap
 
 ### Aesthetic
 
